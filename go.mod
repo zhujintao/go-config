@@ -21,7 +21,7 @@ require (
 	go.etcd.io/etcd v3.3.12+incompatible
 	gocloud.dev v0.12.0
 	golang.org/x/net v0.0.0-20190420063019-afa5a82059c6
-	google.golang.org/grpc v1.20.1
+	google.golang.org/grpc v1.21.0
 	k8s.io/api v0.0.0-20190313235455-40a48860b5ab
 	k8s.io/apimachinery v0.0.0-20190313205120-d7deff9243b1
 	k8s.io/client-go v11.0.0+incompatible
