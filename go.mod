@@ -15,7 +15,7 @@ require (
 	github.com/hashicorp/vault v1.1.0
 	github.com/imdario/mergo v0.3.7
 	github.com/mattn/go-colorable v0.1.1 // indirect
-	github.com/micro/cli v0.1.0
+	github.com/micro/cli v0.2.0
 	github.com/micro/go-micro v1.1.0
 	github.com/pborman/uuid v1.2.0
 	go.etcd.io/etcd v3.3.12+incompatible
