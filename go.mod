@@ -12,7 +12,7 @@ require (
 	github.com/hashicorp/consul v1.4.5-0.20190327125850-f1fe406aa878
 	github.com/hashicorp/consul/api v1.1.0
 	github.com/hashicorp/hcl v1.0.0
-	github.com/hashicorp/vault v1.1.0
+	github.com/hashicorp/vault v1.1.2
 	github.com/imdario/mergo v0.3.7
 	github.com/mattn/go-colorable v0.1.1 // indirect
 	github.com/micro/cli v0.1.0
